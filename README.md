@@ -1,4 +1,5 @@
 Aplikasi Inventaris Barang
+
 "Laravel" (https://img.shields.io/badge/Laravel-Framework-red)
 
 Tentang Aplikasi
@@ -27,6 +28,7 @@ Cara Menjalankan Aplikasi
 7. Jalankan "php artisan serve".
 
 Pengembang
+
 Nama:Juvita Gisela Tampubolon
 
 Proyek:Aplikasi Inventaris Barang
