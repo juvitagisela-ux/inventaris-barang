@@ -28,4 +28,5 @@ Cara Menjalankan Aplikasi
 
 Pengembang
 Nama:Juvita Gisela Tampubolon
+
 Proyek:Aplikasi Inventaris Barang
